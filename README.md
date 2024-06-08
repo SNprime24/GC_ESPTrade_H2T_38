@@ -1,4 +1,4 @@
-# GC_ESPTrade_H2T_38.2
+# GC_ESPTrade_H2T_38
 
 ## Description
 We developed the Stock Trading Bot with ESP8266 to automate stock trading processes using an ESP8266 microcontroller. Our goal was to create a bot that connects to a server, fetches real-time stock data, performs technical analysis based on predefined conditions, and executes buying or selling orders accordingly. It uses candle stick pattern analysis to decide whether to buy, sell or hold. This bot simplifies the stock trading process by leveraging automation and real-time data analysis capabilities.
